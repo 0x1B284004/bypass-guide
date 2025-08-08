@@ -11,7 +11,7 @@ While the other requires a FULLY UNBANNED PC.
 # 1 PC : 
 
 Make sure that you are NOT banned, not delay banned, if so, you will have to use the 2PC method.
-
+```bash
 Step 1 : Launch Valorant.
 
 Step 2 : Find a match, pick your agent.
@@ -22,9 +22,10 @@ Step 4 : Now, Launch the bypass and select the first option, wait for it to do i
 
 Step 5 : You do not have to kill VGC in the task-manager. You can know inject your cheats and have fun until the end of the match, 
          where you'll have to close the game, the cheat, restart your pc (to clean traces of cheats injections.), and then re-do the whole process.
+```
 
 # 2 PC : 
-
+```bash
 You can use this method even if you are banned, getting delays-bans, VAL 152.
 You need a fully unbanned PC (doesnt require to be powerful, its just to launch the match and pick your agent) that we will call here PC A
 We will call your main computer PC B, it can be banned, you can have TPM OFF etc...
@@ -41,6 +42,7 @@ Step 5 : PC B : Launch the bypass and select the first option, wait for it to do
 
 Step 6 : PC B : You do not have to kill VGC in the task-manager. You can know inject your cheats and have fun until the end of the match,
                 where you'll have to close the game, the cheat and the bypass on PC B and start everything back from Step 1 : PC A.
+```
 
 # SUPPORT 
 
